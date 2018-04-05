@@ -27,5 +27,5 @@
   
   
 ## Reference :
-  https://www.learnopencv.com/facial-landmark-detection/
-  https://github.com/spmallick/dlib/
+  https://www.learnopencv.com/facial-landmark-detection/ <br/>
+  https://github.com/spmallick/dlib/ <br/>
