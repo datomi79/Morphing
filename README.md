@@ -9,7 +9,8 @@
   5. cmake .. 
   6. cmake --build . --config Release
 
-  Download the file from https://github.com/spmallick/dlib and extract it. <br/>
+  Download the file from https://github.com/spmallick/dlib and extract it. <br/> <br/>
+  Update your face_landmark_detection_to_file.cpp with the one mentioned above. <br/> <br/>
   Desktop$ cd JournalNewVideos/ <br/>
   Desktop/JournalNewVideos$ cd dlib-master/examples/ <br/>
   Desktop/JournalNewVideos/dlib-master/examples$ mkdir build <br/>
